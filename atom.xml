@@ -5,10 +5,24 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://haruki28.github.io/"/>
-  <updated>2017-02-11T15:57:44.000Z</updated>
+  <updated>2017-02-13T05:43:18.000Z</updated>
   <id>https://haruki28.github.io/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>不要想太多，你还是你</title>
+    <link href="https://haruki28.github.io/2017/02/13/%E4%B8%8D%E8%A6%81%E6%83%B3%E5%A4%AA%E5%A4%9A%EF%BC%8C%E4%BD%A0%E8%BF%98%E6%98%AF%E4%BD%A0/"/>
+    <id>https://haruki28.github.io/2017/02/13/不要想太多，你还是你/</id>
+    <published>2017-02-13T05:43:18.000Z</published>
+    <updated>2017-02-13T05:43:18.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>不知道做什么，就从最小的事情做起吧</title>
@@ -439,28 +453,6 @@
       &lt;p&gt;nothing&lt;/p&gt;
 &lt;p&gt;喝了一瓶啤酒，看了一会PHP编程，睡觉！&lt;/p&gt;
 &lt;p&gt;还是挺开心的!&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>CSS 002</title>
-    <link href="https://haruki28.github.io/2017/01/16/CSS-002/"/>
-    <id>https://haruki28.github.io/2017/01/16/CSS-002/</id>
-    <published>2017-01-16T14:45:17.000Z</published>
-    <updated>2017-02-10T11:42:57.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>如何去掉hefr link的选中</p>
-<p>a:focus {<br>    outline: none;<br>}</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;如何去掉hefr link的选中&lt;/p&gt;
-&lt;p&gt;a:focus {&lt;br&gt;    outline: none;&lt;br&gt;}&lt;/p&gt;
 
     
     </summary>
