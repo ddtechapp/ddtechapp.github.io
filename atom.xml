@@ -5,10 +5,38 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://haruki28.github.io/"/>
-  <updated>2017-02-15T01:34:44.000Z</updated>
+  <updated>2017-02-15T02:33:29.000Z</updated>
   <id>https://haruki28.github.io/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自修101 - 坦诚(001)</title>
+    <link href="https://haruki28.github.io/2017/02/15/%E8%87%AA%E4%BF%AE101-%E5%9D%A6%E8%AF%9A-001/"/>
+    <id>https://haruki28.github.io/2017/02/15/自修101-坦诚-001/</id>
+    <published>2017-02-15T02:31:46.000Z</published>
+    <updated>2017-02-15T02:33:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>要学会坦诚平静的面对问题</p>
+<p>例如： </p>
+<p>git一些命令不会，直接说不会</p>
+<p>毕业于什么学校，长江大学-抑或原江汉石油学院</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;要学会坦诚平静的面对问题&lt;/p&gt;
+&lt;p&gt;例如： &lt;/p&gt;
+&lt;p&gt;git一些命令不会，直接说不会&lt;/p&gt;
+&lt;p&gt;毕业于什么学校，长江大学-抑或原江汉石油学院&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="自修" scheme="https://haruki28.github.io/tags/%E8%87%AA%E4%BF%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>Telder Mono Ht</title>
@@ -423,33 +451,6 @@
       &lt;p&gt;我经常要花很长时间去配置各种主题和开发环境，最近开始尝试默认配置，不再去思考这个主题是否好看，那个主题是否好看，就用系统默认的主题即可。&lt;/p&gt;
 &lt;p&gt;把更多的心思放在要做的事情上，而不是那些细枝末节的配置上面。&lt;/p&gt;
 
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Why PHP?</title>
-    <link href="https://haruki28.github.io/2017/01/18/Why-PHP/"/>
-    <id>https://haruki28.github.io/2017/01/18/Why-PHP/</id>
-    <published>2017-01-18T07:40:48.000Z</published>
-    <updated>2017-02-10T11:42:57.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>自从干完自己的官网之后，我就开始学习PHP开发，以前看不起PHP，觉得不就是个脚本语言，而且和html,javascript纠结在一起，还有令人不安的$符号。这是一个让有洁癖的人很不舒服的语言。</p>
-<p>去年一年，我花了太多的时间学习Rails开发，学习如何适应这个框架的各种最佳实践和黑魔法，然而，我到目前为止都很难说掌握Rails开发，谢谢简单的hello world代码是没什么问题的，要干一个复杂的网站，就歇菜了。我没有办法很好的处理Rails，很好的用Ruby语言，很好的去部署Rails代码。</p>
-<p>今天再看PHP MYSQL JAVASCRIPT那本书，第一句话就击中了我的内心，PHP很简洁，不像Rails那样那么复杂。</p>
-<p>写了这么多年的代码，难道这种简洁不是我所需要的吗？</p>
-<p>神马面条一样的代码，神马不可维护的代码，神马入门简单的代码。</p>
-<p>很多时候，我们需要的是把事情搞完。</p>
-<p>这个世界上90%的网站不需要复杂的部署，复杂的逻辑，复杂的页面。</p>
-<p>我们需要为这个90%的客户服务，而不是另外那10%。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;自从干完自己的官网之后，我就开始学习PHP开发，以前看不起PHP，觉得不就是个脚本语言，而且和html,javascript纠结在一起，还有令人不安的$符号。这是一个让有洁癖的人很不舒服的语言。&lt;/p&gt;
-&lt;p&gt;去年一年，我花了太多的时间学习Rails开发，学习如何适应这个框
     
     </summary>
     
