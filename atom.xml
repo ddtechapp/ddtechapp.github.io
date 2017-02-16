@@ -5,10 +5,24 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://haruki28.github.io/"/>
-  <updated>2017-02-15T02:33:29.000Z</updated>
+  <updated>2017-02-16T10:06:23.000Z</updated>
   <id>https://haruki28.github.io/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nothing, you need to fight</title>
+    <link href="https://haruki28.github.io/2017/02/16/nothing-you-need-to-fight/"/>
+    <id>https://haruki28.github.io/2017/02/16/nothing-you-need-to-fight/</id>
+    <published>2017-02-16T10:06:23.000Z</published>
+    <updated>2017-02-16T10:06:23.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>自修101 - 坦诚(001)</title>
@@ -429,28 +443,6 @@
     <updated>2017-02-10T11:42:57.000Z</updated>
     
     <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>write code with default configuration</title>
-    <link href="https://haruki28.github.io/2017/01/18/write-code-with-default-configuration/"/>
-    <id>https://haruki28.github.io/2017/01/18/write-code-with-default-configuration/</id>
-    <published>2017-01-18T11:11:57.000Z</published>
-    <updated>2017-02-10T11:42:57.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>我经常要花很长时间去配置各种主题和开发环境，最近开始尝试默认配置，不再去思考这个主题是否好看，那个主题是否好看，就用系统默认的主题即可。</p>
-<p>把更多的心思放在要做的事情上，而不是那些细枝末节的配置上面。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;我经常要花很长时间去配置各种主题和开发环境，最近开始尝试默认配置，不再去思考这个主题是否好看，那个主题是否好看，就用系统默认的主题即可。&lt;/p&gt;
-&lt;p&gt;把更多的心思放在要做的事情上，而不是那些细枝末节的配置上面。&lt;/p&gt;
-
     
     </summary>
     
