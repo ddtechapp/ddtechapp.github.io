@@ -5,10 +5,32 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://haruki28.github.io/"/>
-  <updated>2017-02-16T10:06:23.000Z</updated>
+  <updated>2017-02-17T07:29:04.000Z</updated>
   <id>https://haruki28.github.io/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自修101: 三思而后行002</title>
+    <link href="https://haruki28.github.io/2017/02/17/%E8%87%AA%E4%BF%AE101-%E4%B8%89%E6%80%9D%E8%80%8C%E5%90%8E%E8%A1%8C002/"/>
+    <id>https://haruki28.github.io/2017/02/17/自修101-三思而后行002/</id>
+    <published>2017-02-17T07:16:32.000Z</published>
+    <updated>2017-02-17T07:29:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>任何事情，别人问你，三四而后答，要提前有一些备用答案，不能够什么都和别人说，不想说就不说。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;任何事情，别人问你，三四而后答，要提前有一些备用答案，不能够什么都和别人说，不想说就不说。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="自修101" scheme="https://haruki28.github.io/tags/%E8%87%AA%E4%BF%AE101/"/>
+    
+  </entry>
   
   <entry>
     <title>nothing, you need to fight</title>
@@ -429,20 +451,6 @@
 &lt;p&gt;我不会在意一些人的看法，也不会在意一些鸟人的眼光，因为我要做的事情远远不在这些鸟人所认知的范围内。&lt;/p&gt;
 &lt;p&gt;那为什么还要在这个地方坚持呢？&lt;/p&gt;
 &lt;p&gt;我还需要积累，可能还需一年，或者几年，这些都不重要。&lt;/
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>openresty</title>
-    <link href="https://haruki28.github.io/2017/01/19/openresty/"/>
-    <id>https://haruki28.github.io/2017/01/19/openresty/</id>
-    <published>2017-01-18T23:51:37.000Z</published>
-    <updated>2017-02-10T11:42:57.000Z</updated>
-    
-    <summary type="html">
     
     </summary>
     
