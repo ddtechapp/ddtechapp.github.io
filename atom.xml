@@ -5,10 +5,52 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://haruki28.github.io/"/>
-  <updated>2017-02-17T07:29:04.000Z</updated>
+  <updated>2017-02-19T13:26:06.000Z</updated>
   <id>https://haruki28.github.io/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>do anything by ruby</title>
+    <link href="https://haruki28.github.io/2017/02/19/do-anything-by-ruby/"/>
+    <id>https://haruki28.github.io/2017/02/19/do-anything-by-ruby/</id>
+    <published>2017-02-19T13:24:46.000Z</published>
+    <updated>2017-02-19T13:26:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>打算完成一个小的想法，干什么事情都使用Ruby</p>
+<p>完成工作只用Javascript</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;打算完成一个小的想法，干什么事情都使用Ruby&lt;/p&gt;
+&lt;p&gt;完成工作只用Javascript&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>极简主义生活</title>
+    <link href="https://haruki28.github.io/2017/02/18/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%94%9F%E6%B4%BB/"/>
+    <id>https://haruki28.github.io/2017/02/18/极简主义生活/</id>
+    <published>2017-02-18T10:07:23.000Z</published>
+    <updated>2017-02-18T10:08:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>开始读《我决定简单的生活-从断舍离到极简主义》，受益匪浅，删掉了很多不用的软件，下一步就是对我所不需要的书，都要扔掉。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;开始读《我决定简单的生活-从断舍离到极简主义》，受益匪浅，删掉了很多不用的软件，下一步就是对我所不需要的书，都要扔掉。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>自修101: 三思而后行002</title>
@@ -395,62 +437,6 @@
     <updated>2017-02-10T11:42:57.000Z</updated>
     
     <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Why should I build something?</title>
-    <link href="https://haruki28.github.io/2017/01/21/Why-should-I-build-something/"/>
-    <id>https://haruki28.github.io/2017/01/21/Why-should-I-build-something/</id>
-    <published>2017-01-21T05:17:44.000Z</published>
-    <updated>2017-02-10T11:42:57.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>在HackNews上看到一句话，如果感到抑郁的话，做点什么？</p>
-<p>老婆说我每个月都会感到抑郁，都会有一种是不是的陷入一种无法自拔的不爽之中，的确如此。随是如此，我不是那种感怀伤时的人。只是喜欢慨叹一些事情。</p>
-<p>So, I should build something for the furture. I don’t need someone to know me. Because  nobody can help me to fight.</p>
-<p>One man with the laptop</p>
-<p>write code day after day</p>
-<p>someday, the man grows up</p>
-<p>the company will come out</p>
-<p>my dream is family dream</p>
-<p>my wife needs me</p>
-<p>my son needs me </p>
-<p>I’m the hero…</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在HackNews上看到一句话，如果感到抑郁的话，做点什么？&lt;/p&gt;
-&lt;p&gt;老婆说我每个月都会感到抑郁，都会有一种是不是的陷入一种无法自拔的不爽之中，的确如此。随是如此，我不是那种感怀伤时的人。只是喜欢慨叹一些事情。&lt;/p&gt;
-&lt;p&gt;So, I should build so
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>你为什么学那么多东西?</title>
-    <link href="https://haruki28.github.io/2017/01/20/%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AD%A6%E9%82%A3%E4%B9%88%E5%A4%9A%E4%B8%9C%E8%A5%BF/"/>
-    <id>https://haruki28.github.io/2017/01/20/你为什么学那么多东西/</id>
-    <published>2017-01-20T15:02:35.000Z</published>
-    <updated>2017-02-10T11:42:57.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>所有的一切都是为一个不大不小的期许服务的。</p>
-<p>我不会在意一些人的看法，也不会在意一些鸟人的眼光，因为我要做的事情远远不在这些鸟人所认知的范围内。</p>
-<p>那为什么还要在这个地方坚持呢？</p>
-<p>我还需要积累，可能还需一年，或者几年，这些都不重要。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;所有的一切都是为一个不大不小的期许服务的。&lt;/p&gt;
-&lt;p&gt;我不会在意一些人的看法，也不会在意一些鸟人的眼光，因为我要做的事情远远不在这些鸟人所认知的范围内。&lt;/p&gt;
-&lt;p&gt;那为什么还要在这个地方坚持呢？&lt;/p&gt;
-&lt;p&gt;我还需要积累，可能还需一年，或者几年，这些都不重要。&lt;/
     
     </summary>
     
