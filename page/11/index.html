@@ -35,9 +35,9 @@
     <div id="header-inner" class="inner">
       <nav id="sub-nav">
         
-          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS-каналы"></a>
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
         
-        <a id="nav-search-btn" class="nav-icon" title="Поиск"></a>
+        <a id="nav-search-btn" class="nav-icon" title="Søk"></a>
       </nav>
       <div id="search-form-wrap">
         <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://haruki28.github.io"></form>
@@ -68,6 +68,223 @@
 </header>
       <div class="outer">
         <section id="main">
+  
+    <article id="post-技术功利主义" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2016/10/30/技术功利主义/" class="article-date">
+  <time datetime="2016-10-29T23:23:59.000Z" itemprop="datePublished">2016-10-30</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2016/10/30/技术功利主义/">技术功利主义</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <!-- Table of Contents -->
+        
+        <p>被儿子吵醒了，也无心睡眠，早起给家人做南瓜粥，然后躺沙发上刷手机，老婆床上刷手机，儿子床边看图画书，我沙发上刷手机，难得的一家三口和谐相处啊!</p>
+<p>手机刷的实在无聊，边打开显示器看昨天的swift，实在不太明白泛型里面的Generator，看了几次都清晰，想放弃，觉得这个玩意儿目前用处不大。放弃不看，又捡起来看，非要搞懂为止，其实这个技术没那么难。不想搞懂一个东西的原因无非是，搞懂这个玩意儿能给我带来多少钱？</p>
+<p>技术功利主义非常盛行，这也不能够怪谁，人是一种经济动物，不能够脱离社会母体，哪里挣钱往哪里奔，iOS挣钱学iOS，听说大数据挣钱，一股脑的往里面钻，天下熙熙攘攘皆为利来。为利的越多，乐趣就越少，乐趣少了，就越来越浮躁，不愿意花心思在本事的修炼上面，东搞搞，西弄弄，时间也就蹉跎了。</p>
+<p>我目前最佩服的程序员，有四个，一个是linus，创造了linux, git,一个是春哥，写的一首好c代码，开源软件是openresty,一个是onevcat,iOS写的非常棒, 最后一个是matz，创造了ruby。成年人的生活本身不易，如果有自己的追求，这种追求短期内无法给自己代码多大的利益，我们就更应该保护起来，因为所爱，才能做得更好，才能在做的过程中觉得自己是一个有趣的人。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://haruki28.github.io/2016/10/30/技术功利主义/" data-id="cizfdfw2v008c4v9ym0x86eme" class="article-share-link">Share</a>
+      
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/iOS-投机分子-swift/">iOS, 投机分子, swift</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-learn-swift-again" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2016/10/29/learn-swift-again/" class="article-date">
+  <time datetime="2016-10-29T10:59:07.000Z" itemprop="datePublished">2016-10-29</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2016/10/29/learn-swift-again/">learn swift again</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <!-- Table of Contents -->
+        
+        <p>时间越来越少了，花了两个小时把swift的教程的预览部分看完了，相当于又学了一遍swift</p>
+<p>照着下面敲一遍，基本就知道swift的方方面面了，当然，我已经写了好多行swift代码了<br><code></code></p>
+<p>//: Playground - noun: a place where people can play</p>
+<p>import UIKit</p>
+<p>// var 声明变量<br>var value = 42</p>
+<p>// let 声明常量<br>let instValue = 59</p>
+<p>// 显示指定类型<br>let doubleValue: Double = 32.9</p>
+<p>let floatValue: Float = 48.9</p>
+<p>let label = “The width is “<br>let width = 94<br>let widthLabel = label + String(width)</p>
+<p>print(widthLabel)</p>
+<p>// () 转换为字符串<br>let apples: Int = 32<br>let appleSummary = “I have (apples) apples”<br>print(appleSummary)</p>
+<p>// [] 来创建数组，数组里面可以用key-value形式<br>var shoppingList = [“catfish”, “water”, “tulips”, “blue paint”]<br>print(shoppingList[1])</p>
+<p>// key-values<br>var occupations = [<br>    “fruit” : “apple”,<br>    “animal” : “tiger”<br>]</p>
+<p>print(occupations[“animal”]!)</p>
+<p>// 创建空字数组<br>var emptyArray = <a href="">String</a><br>emptyArray.append(“Hello”)<br>print(emptyArray[0])</p>
+<p>// 创建空字典<br>var emptyDictionary = <a href="">String: Float</a><br>emptyDictionary[“hello”] = 32.9<br>print(emptyDictionary[“hello”]!)</p>
+<p>// 控制流<br>let individualScores = [75, 43, 103, 87, 12]<br>var teamScore = 0<br>for score in individualScores {<br>    if score &gt; 50 {</p>
+<pre><code>    teamScore += 3
+} else {
+
+    teamScore += 1
+}
+</code></pre><p>}</p>
+<p>print(teamScore)</p>
+<p>// if 和 let一起用，处理nil<br>var optionalString: String = “Hello”<br>print((optionalString == nil))<br>print(optionalString)</p>
+<p>var optionalName: String? = “John Appleseed”<br>var greeting = “Hello!”<br>if let name = optionalName {<br>    greeting = “Hello, (name)”<br>}<br>print(greeting)</p>
+<p>optionalName = nil<br>if let name = optionalName {</p>
+<p>} else {</p>
+<pre><code>print(&quot;else here&quot;)
+</code></pre><p>}</p>
+<p>// switch case<br>let vagetable = “red pepper”<br>switch vagetable {<br>case “celery”:<br>    let vegetableComment = “Add some raisins and make ants on a log”<br>case “cucumber”, “watercress”:<br>    let vegetableComment = “That would make a good tea sandwich”<br>case let x where x.hasSuffix(“pepper”):<br>    let vegetableComment = “Is it a spicy (x)”<br>    print(vegetableComment)<br>default:<br>    let vegetableComment = “Eveything tastes good in soup”<br>}</p>
+<p>// for-in 来遍历字典<br>let interestingNumbers = [<br>    “Prime”: [2, 3, 5, 7, 11, 13],<br>    “Fibonacci”: [1, 1, 2, 3, 5, 8],<br>    “Square”: [1, 4, 9, 16, 25]<br>]</p>
+<p>var largest = 0<br>for (key, numbers) in interestingNumbers {<br>    for number in numbers {</p>
+<pre><code>    if number &gt; largest {
+        largest = number
+    }
+}
+</code></pre><p>}</p>
+<p>print(largest)</p>
+<p>// while 循环<br>var n = 2<br>while n &lt; 100 {</p>
+<pre><code>n = n * 2
+</code></pre><p>}<br>print(n)</p>
+<p>var m = 2<br>repeat {</p>
+<pre><code>m = m * 2
+</code></pre><p>} while m &lt; 100<br>print(m)</p>
+<p>// ..&lt; 来表示范围[不包含上边界], …&lt; 操作符似乎没有了 传统for循环也似乎没有了 swift3.0<br>var firstForLoop = 0<br>for i in 0..&lt;4 {<br>    firstForLoop += i<br>}<br>print(firstForLoop)</p>
+<p>// 函数和闭包<br>func greet(name: String, day: String) -&gt; String {<br>    return “Hello (name), today is (day)”<br>}</p>
+<p>print(greet(name: “Bob”, day: “Tuesday”))</p>
+<p>// 返回元组多个值<br>func calculateStatistics(scores: [Int]) -&gt; (min: Int, max: Int, sum: Int) {<br>    var min = scores[0]<br>    var max = scores[0]<br>    var sum = 0</p>
+<pre><code>for score in scores {
+    if score &lt; min {
+        min = score
+    } else if score &gt; max {
+        max = score
+    }
+    sum += score
+}
+
+return (min, max, sum)
+</code></pre><p>}</p>
+<p>let statistics = calculateStatistics(scores: [5, 3, 100, 3, 9])<br>print(statistics.min)<br>print(statistics.2)</p>
+<p>// 函数可以带可变参数<br>func sumOf(numbers: Int…) -&gt; Int {<br>    var sum = 0<br>    for number in numbers {<br>        sum += number<br>    }<br>    return sum<br>}</p>
+<p>print(sumOf(numbers: 1, 2, 4))</p>
+<p>// 内嵌函数<br>func return15() -&gt; Int {<br>    var y = 10<br>    func add() {<br>        y += 5<br>    }<br>    add()<br>    return y<br>}</p>
+<p>print(return15())</p>
+<p>// 函数可以作为first-class 可以被返回<br>func makeIncrement() -&gt; ((Int) -&gt; Int) {<br>    func addOne(number: Int) -&gt; Int {<br>        return 1 + number<br>    }<br>    return addOne<br>}</p>
+<p>var increment = makeIncrement()<br>print(increment(9))</p>
+<p>// 函数也可以作为参数传入另外一个函数<br>func print2(list: [Int], condition: ((Int) -&gt; Bool)) -&gt; Void {<br>    for n in  list {</p>
+<pre><code>    if condition(n) == true {
+
+        print(n)
+    }
+}
+</code></pre><p>}</p>
+<p>print2(list: [9, 10, 11, 12, 143, 15, 18]) { (num) -&gt; Bool in</p>
+<pre><code>if num % 2 == 0 {
+
+    return true
+}
+
+return false
+</code></pre><p>}</p>
+<p>// 使用闭包<br>var numbers = [9, 10, 11, 12, 14, 19, 21]<br>numbers = numbers.map { (num) -&gt; Int in<br>    let result = num * 3<br>    return result<br>}<br>print(numbers)</p>
+<p>// 对象和类<br>class Shape {<br>    var numberOfSides = 0<br>    func simpleDescription() -&gt; String {<br>        return “A shape with (numberOfSides)”<br>    }<br>}</p>
+<p>var s = Shape()<br>print(s.simpleDescription())<br>s.numberOfSides = 9<br>print(s.simpleDescription())</p>
+<p>class NamedShape {<br>    var numberOfSides = 0<br>    var name: String</p>
+<pre><code>init(name: String) {
+    self.name = name
+}
+
+func simpleDescription() -&gt; String {
+    return &quot;A shape with \(numberOfSides)  name -&gt; \(name)&quot;
+}
+</code></pre><p>}</p>
+<p>var ns = NamedShape(name: “Kity”)<br>print(ns.simpleDescription())</p>
+<p>// 继承<br>class Square : NamedShape {<br>    var sideLength: Double = 0.0</p>
+<pre><code>init(sideLength: Double, name: String) {
+
+    super.init(name: name)
+    self.sideLength = sideLength
+    numberOfSides = 4
+}
+
+
+func area() -&gt; Double {
+    return sideLength * sideLength
+}
+
+override func simpleDescription() -&gt; String {
+    return &quot;A square with sides of length \(self.sideLength)&quot;
+}
+</code></pre><p>}</p>
+<p>var square = Square(sideLength: 14.4, name: “Square”)<br>print(“Square.area() -&gt; (square.area())”)</p>
+<p>// 扩展和协议<br>protocol ExampleProtocol {<br>    var simpleDescription: String {get}<br>    mutating func adjust()<br>}</p>
+<p>class SimpleClass : ExampleProtocol {<br>    internal func adjust() {<br>        simpleDescription += “Now 100% adjusted..”<br>    }</p>
+<pre><code>var simpleDescription: String = &quot;A very simple class&quot;
+</code></pre><p>}</p>
+<p>var sc = SimpleClass()<br>sc.adjust()<br>print(sc.simpleDescription)</p>
+<p>extension Int {</p>
+<pre><code>func simpleDescription() -&gt; String {
+
+    return &quot;Simple number is \(self)&quot;
+}
+</code></pre><p>}</p>
+<p>var snum: Int = 39<br>print(snum.simpleDescription())</p>
+<p>// 泛型<br>func repeat<em>itemType<itemtype>(item: ItemType, times: Int) -&gt; [ItemType] {<br>    var result = <a href="">ItemType</a><br>    for </itemtype></em> in 0..&lt;times {<br>        result.append(item)<br>    }<br>    return result<br>}</p>
+<p>print(repeat_itemType(item: “kock”, times: 5))</p>
+<p></p>
+<p>swift基础版本的教程准备每天刷一点，搞明白swift的方方面面。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://haruki28.github.io/2016/10/29/learn-swift-again/" data-id="cizfdfvzg003p4v9yjg8qto8u" class="article-share-link">Share</a>
+      
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/swift/">swift</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
   
     <article id="post-白驹过隙" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
@@ -103,7 +320,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://haruki28.github.io/2016/10/28/白驹过隙/" data-id="cizcpicvj009esq9ynyhyzi4v" class="article-share-link">Поделиться</a>
+      <a data-url="https://haruki28.github.io/2016/10/28/白驹过隙/" data-id="cizfdfw3f009i4v9y5gmhfrih" class="article-share-link">Share</a>
       
       
       
@@ -146,7 +363,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://haruki28.github.io/2016/10/28/放弃使用Windows/" data-id="cizcpicv2008gsq9y604ghq0y" class="article-share-link">Поделиться</a>
+      <a data-url="https://haruki28.github.io/2016/10/28/放弃使用Windows/" data-id="cizfdfw2y008h4v9y3tqqax42" class="article-share-link">Share</a>
       
       
       
@@ -189,7 +406,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://haruki28.github.io/2016/10/27/ios-dev-swift/" data-id="cizcpicrw003hsq9yn2rjosor" class="article-share-link">Поделиться</a>
+      <a data-url="https://haruki28.github.io/2016/10/27/ios-dev-swift/" data-id="cizfdfvza003l4v9ywahxy7t7" class="article-share-link">Share</a>
       
       
       
@@ -230,7 +447,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://haruki28.github.io/2016/10/27/There-is-not-enough-disk-space-available-to-install-the-product-XCode/" data-id="cizcpicqd001usq9yngli51ry" class="article-share-link">Поделиться</a>
+      <a data-url="https://haruki28.github.io/2016/10/27/There-is-not-enough-disk-space-available-to-install-the-product-XCode/" data-id="cizfdfvxj001t4v9y0htet95l" class="article-share-link">Share</a>
       
       
       
@@ -274,7 +491,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://haruki28.github.io/2016/10/27/浅薄/" data-id="cizcpicvb008xsq9y6qtdw7sg" class="article-share-link">Поделиться</a>
+      <a data-url="https://haruki28.github.io/2016/10/27/浅薄/" data-id="cizfdfw3700914v9y1rpp9urq" class="article-share-link">Share</a>
       
       
       
@@ -316,7 +533,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://haruki28.github.io/2016/10/27/mobike和ofo的逻辑/" data-id="cizcpics5003ssq9y7bm0e9wx" class="article-share-link">Поделиться</a>
+      <a data-url="https://haruki28.github.io/2016/10/27/mobike和ofo的逻辑/" data-id="cizfdfvzm00404v9yyos565m5" class="article-share-link">Share</a>
       
       
       
@@ -358,7 +575,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://haruki28.github.io/2016/10/27/new-adventure/" data-id="cizcpics8003wsq9ypejj8ifd" class="article-share-link">Поделиться</a>
+      <a data-url="https://haruki28.github.io/2016/10/27/new-adventure/" data-id="cizfdfvzs00494v9y99shqx9r" class="article-share-link">Share</a>
       
       
       
@@ -400,96 +617,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://haruki28.github.io/2016/10/26/mobike以及其他/" data-id="cizcpicsd0046sq9yxzqrvsj7" class="article-share-link">Поделиться</a>
-      
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-
-
-  
-    <article id="post-整理思路" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2016/10/25/整理思路/" class="article-date">
-  <time datetime="2016-10-25T14:31:03.000Z" itemprop="datePublished">2016-10-25</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2016/10/25/整理思路/">整理思路</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <!-- Table of Contents -->
-        
-        <p>晚饭回来喝了点酒，真的是一点点，没有醉，我不适合喝酒，从小都不适合，最近越来越喜欢回到家喝一杯或几口来提提兴致。越来越懒了，终日抱着手机乐不思蜀，沉迷其中，上周四摔了一跤，把整个人的精神似乎给摔没了，几天都没办法集中精力做事情，四五天什么都干不了，尾骨疼痛不已。我应该没有抑郁症，只是心情不好，不清楚自己的定位在哪里？出路在哪里？晚上参加ifanr的一个问答活动，问了人人车CEO几个问题，回答了两个。人人车从idea到落地只用了两个月，够快的。创始人在互联网上面也有非常丰富的经验，可谓是A PLAYER，非常佩服。我从业六个年头，没有进入大公司的经验，所有的事情都要靠自己去摸索，视角也变得非常狭窄，按照所谓的评定，我可能不是所谓的A PLAYER，创业还是要继续的，不能够快速否定自己的想法，想到了就要去做。</p>
-<p>我的idea又在哪里？</p>
-<p>终日读书，不得其解，如何才能通过自己的电脑来改变自己的生活呢？</p>
-<p>养小孩，照顾家庭，还要分出时间来创业，公司加班又非常严重，这些都是问题，需要我去解决，不要气馁。</p>
-<p>Pony是上天带给我和媳妇的最好的的礼物，我要养好他，给他一个最好的未来，我不能够持续的抑郁，抑郁是解决不了问题的。</p>
-<p>最后一篇自怨自艾的文章，以后不再写了!</p>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="https://haruki28.github.io/2016/10/25/整理思路/" data-id="cizcpicv8008tsq9yogwq3coj" class="article-share-link">Поделиться</a>
-      
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-
-
-  
-    <article id="post-last-post" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2016/10/25/last-post/" class="article-date">
-  <time datetime="2016-10-25T12:00:34.000Z" itemprop="datePublished">2016-10-25</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2016/10/25/last-post/">last post</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <!-- Table of Contents -->
-        
-        <p>last post, I should not feel sad </p>
-<p>I don’t know why </p>
-<p>doooo something, make something, running !!!!</p>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="https://haruki28.github.io/2016/10/25/last-post/" data-id="cizcpicrz003msq9y7ebatn53" class="article-share-link">Поделиться</a>
+      <a data-url="https://haruki28.github.io/2016/10/26/mobike以及其他/" data-id="cizfdfvzl003x4v9yjj5zfd9h" class="article-share-link">Share</a>
       
       
       
@@ -504,7 +632,7 @@
 
 
   <nav id="page-nav">
-    <a class="extend prev" rel="prev" href="/page/10/">&laquo; Назад</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/9/">9</a><a class="page-number" href="/page/10/">10</a><span class="page-number current">11</span><a class="page-number" href="/page/12/">12</a><a class="page-number" href="/page/13/">13</a><span class="space">&hellip;</span><a class="page-number" href="/page/23/">23</a><a class="extend next" rel="next" href="/page/12/">Вперед&raquo;</a>
+    <a class="extend prev" rel="prev" href="/page/10/">&laquo; Forrige</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/9/">9</a><a class="page-number" href="/page/10/">10</a><span class="page-number current">11</span><a class="page-number" href="/page/12/">12</a><a class="page-number" href="/page/13/">13</a><span class="space">&hellip;</span><a class="page-number" href="/page/23/">23</a><a class="extend next" rel="next" href="/page/12/">Neste&raquo;</a>
   </nav>
 </section>
            
@@ -522,9 +650,17 @@
   
     
   <div class="widget-wrap">
-    <h3 class="widget-title recent-posts">Недавние записи</h3>
+    <h3 class="widget-title recent-posts">Siste innlegg</h3>
     <div class="widget">
       <ul>
+        
+          <li>
+            <a href="/2017/02/21/build-stuff-not-learn-something/">build stuff, not learn something</a>
+          </li>
+        
+          <li>
+            <a href="/2017/02/20/我应该去创业/">我应该去创业</a>
+          </li>
         
           <li>
             <a href="/2017/02/19/do-anything-by-ruby/">do anything by ruby</a>
@@ -536,14 +672,6 @@
         
           <li>
             <a href="/2017/02/17/自修101-三思而后行002/">自修101: 三思而后行002</a>
-          </li>
-        
-          <li>
-            <a href="/2017/02/16/nothing-you-need-to-fight/">nothing, you need to fight</a>
-          </li>
-        
-          <li>
-            <a href="/2017/02/15/自修101-坦诚-001/">自修101 - 坦诚(001)</a>
           </li>
         
       </ul>
@@ -569,7 +697,7 @@
   <div class="outer">
     <div id="footer-left">
       &copy; 2014 - 2017 haruki29&#39;s personal website&nbsp;|&nbsp;
-      Создано с помощью <a href="https://github.com/giscafer/hexo-theme-cafe/" target="_blank">Cafe</a>
+      Theme by <a href="https://github.com/giscafer/hexo-theme-cafe/" target="_blank">Cafe</a>
     </div>
      <div id="footer-right">
       Contact&nbsp;|&nbsp;youemail@outlook.com
